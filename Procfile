@@ -1,0 +1,1 @@
+web: gunicorn edb83-codestar2021.wsgi
